@@ -1,0 +1,4 @@
+.container { padding: 40px; max-width: 500px; margin: auto; }
+.navbar { display: flex; gap: 20px; padding: 20px; background: #eee; justify-content: center; }
+input { padding: 8px; margin-right: 10px; width: 70%; }
+button { padding: 8px 15px; cursor: pointer; }
